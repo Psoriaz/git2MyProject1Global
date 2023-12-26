@@ -1,7 +1,7 @@
-// Р·Р°РіРѕР»РѕРІРѕС‡РЅС‹Р№ С„Р°Р№Р» funcs.h 
-52
-#ifndef __FUNCS_H__ 
-#define __FUNCS_H__ 
+// заголовочный файл funcs.h
+#ifndef __FUNCS_H__
+#define __FUNCS_H__
 double MySum(double, double);
 double MySub(double, double);
+double MyMul(double, double);
 #endif // __FUNCS_H__
